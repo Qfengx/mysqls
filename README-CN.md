@@ -1,3 +1,4 @@
+### 针对ecode调整，移除自定义sql执行能力，补充多数据库支持
 ### [英文文档](/README.md) | [中文文档](/README-CN.md)
 
 # mysqls
